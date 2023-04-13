@@ -24,7 +24,6 @@ public extension View {
         .listRowInsets(EdgeInsets())
         .listRowInsets(EdgeInsets(top: -1, leading: -1, bottom: -1, trailing: -1))
     }
-
 #endif
   }
 }
